@@ -58,10 +58,10 @@ print("The area of a rectangle with length 3 and width 4 is", 3 * 4)
 # Then change the variable values from line 61 to 65 to your info. 
 #---------------------------------------------------------
 
-name = "Alice"
-hobby = "hockey"
-coding_experience = "advanced"
-weekly_hours_learn_coding = 8
+name = "Shillan"
+hobby = "hiking"
+coding_experience = "beginner"
+weekly_hours_learn_coding = 5
 my_github_comp115_repo = "https://github.com/awang-capu/comp115-capu"
 
 print(f"""
